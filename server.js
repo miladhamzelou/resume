@@ -1514,7 +1514,7 @@ const routes = {
       const route = yield next();
 
       // Provide default values for title, description etc.
-      route.title = `${route.title || 'Untitled Page'} - www.reactstarterkit.com`;
+      route.title = `Pasha28198`;
       route.description = route.description || '';
 
       return route;

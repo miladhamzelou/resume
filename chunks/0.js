@@ -244,7 +244,9 @@ function Header(props) {
     className: __WEBPACK_IMPORTED_MODULE_2__Header_css___default.a.nameCategory
   }, void 0, _jsx('span', {}, void 0, props.Category)), _jsx('div', {
     className: __WEBPACK_IMPORTED_MODULE_2__Header_css___default.a.visitGitWrapper
-  }, void 0, _jsx('button', {
+  }, void 0, _jsx('a', {
+    href: 'https://github.com/Pasha28198',
+    target: '_blank',
     className: __WEBPACK_IMPORTED_MODULE_2__Header_css___default.a.visitGit
   }, void 0, 'Visit My Git')));
 }
@@ -295,7 +297,7 @@ exports = module.exports = __webpack_require__(8)(false);
 
 
 // module
-exports.push([module.i, "@font-face{font-family:Montserrat-Regular;src:url(" + __webpack_require__(64) + ")}._1Xm7V{height:100px;-ms-flex-wrap:nowrap;flex-wrap:nowrap}._1Xm7V,._3d2-d{display:-webkit-box;display:-ms-flexbox;display:flex}._3d2-d{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;width:238px;background-color:#21324f}._3d2-d img{width:50px;height:50px;border-radius:50%;margin-left:25px;margin-top:25px}.aFi1M{padding-top:38px}._3o2fv{text-transform:uppercase;font-size:14px;color:#7b96c4;font-family:Montserrat-Regular;margin-left:20px;margin-top:20px}._3XqFM{width:694px}._1fu4z,._3XqFM{background-color:#f1f6ff}._1fu4z{width:238px}._3XqFM{font-size:24px;color:#7b96c4;padding:50px 0 0 25px}._3XqFM,._34It-{font-family:Montserrat-Regular}._34It-{width:175px;height:40px;border-radius:20px;border:none;color:#fff;background-color:#3dcb35;font-size:14px;margin-top:36px;margin-left:10px}", ""]);
+exports.push([module.i, "@font-face{font-family:Montserrat-Regular;src:url(" + __webpack_require__(64) + ")}._1Xm7V{height:100px;-ms-flex-wrap:nowrap;flex-wrap:nowrap}._1Xm7V,._3d2-d{display:-webkit-box;display:-ms-flexbox;display:flex}._3d2-d{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;width:238px;background-color:#21324f}._3d2-d img{width:50px;height:50px;border-radius:50%;margin-left:25px;margin-top:25px}.aFi1M{padding-top:38px}._3o2fv{text-transform:uppercase;font-size:14px;color:#7b96c4;font-family:Montserrat-Regular;margin-left:20px;margin-top:20px}._3XqFM{width:694px}._1fu4z,._3XqFM{background-color:#f1f6ff}._1fu4z{padding-top:40px;width:238px}._3XqFM{font-size:24px;color:#7b96c4;padding:50px 0 0 25px}._3XqFM,._34It-{font-family:Montserrat-Regular}._34It-{text-decoration:none;padding:10px 44px;width:175px;height:40px;border-radius:20px;border:none;color:#fff;background-color:#3dcb35;font-size:14px;margin-top:36px;margin-left:10px}", ""]);
 
 // exports
 exports.locals = {
